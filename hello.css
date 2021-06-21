@@ -10,12 +10,8 @@ body{
     text-align: center;      /*文字居中顯示*/    
 
 }
-p{
-    text-indent: 2em;         /*首行退後兩個*/
-}
-
 li{
-    
+    list-style: none;
 }
 
 
