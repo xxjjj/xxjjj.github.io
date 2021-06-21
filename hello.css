@@ -1,0 +1,30 @@
+header {
+    height: 70px;            /*header-height*/
+    margin-bottom: 1em;
+    background: #2e6bddc2;   /*background-color*/
+    font: bold 25px sans-serif;/*font-size*/
+    line-height: 70px;          
+    color: white;            /*text-color*/    
+    text-indent: 2em;           /*text-indent 首行退後兩格*/
+}
+body{
+    text-align: center;
+
+}
+p{
+    text-indent: 2em;
+}
+
+li{
+    
+}
+
+
+table{
+    margin: auto;
+    text-align: center;
+    height: 200px;
+    width: 50%;
+}
+
+
